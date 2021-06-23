@@ -21,7 +21,7 @@ $ git clone https://github.com/valentimcanejo/ToDo-App.git
 $ cd front-end
 $ cd backend
 
-# Use um destes comandos para instalar as dependências
+# Use este comando para instalar as dependências.
 $ npm i
 
 # Inicie a aplicação em cada pasta do projeto.
