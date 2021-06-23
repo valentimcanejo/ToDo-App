@@ -1,3 +1,4 @@
+![alt text](https://img.icons8.com/nolan/2x/react-native.png)
 # Lista de tarefas em React e Node
 
 Esta é uma aplicação em React de registro de tarefas, podendo o usuário adicionar várias tarefas a fazer, marcar como concluída ou removê-la.
