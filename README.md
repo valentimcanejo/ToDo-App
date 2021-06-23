@@ -15,7 +15,7 @@ A aplicação foi separada em front-end e back-end, sendo o front-end feito em R
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/valentimcanejo/Desafio-NAVI.git
+$ git clone https://github.com/valentimcanejo/ToDo-App.git
 
 # Acesse as pastas front-end e back-end separadamente no terminal
 $ cd front-end
